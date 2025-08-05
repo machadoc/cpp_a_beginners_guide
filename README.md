@@ -3,9 +3,11 @@
 This repository contains my personal code as I work through the book "C++: A Beginner's Guide" by Herbert Schildt. Each module corresponds to sections or chapters from the book.
 
 ## Structure
+
 - `module_1/` — Introductory C++ examples and exercises
 
 ## Getting Started
+
 1. Clone the repository:
    ```sh
    git clone https://github.com/machadoc/cpp_a_beginners_guide.git
@@ -20,8 +22,10 @@ This repository contains my personal code as I work through the book "C++: A Beg
    ```
 
 ## Requirements
+
 - C++ compiler (e.g., g++)
 - Command line terminal (macOS, Linux, or Windows)
 
 ## License
+
 MIT License
