@@ -1,0 +1,69 @@
+1.  What type of intigers are supported by C++?
+
+    short, long, signed and unsigned
+
+2.  By default, what type is 12.2?
+
+    double
+
+3.  What values can a bool variable have?
+
+    true or false (1 or 0)
+
+4.  What is the long intiger data type?
+
+    The long intiger data type is at minimum 
+
+5.  What escape sequence produces a tab? What escape sequence rings the bell?
+
+    \t, no idea
+
+6.  A string is surrounded by the double quotes. True or false?
+
+    True
+
+7.  What are the hexadecimal digits?
+
+    0x followed by number. They use base 16 instead of 10.
+
+8.  Show the general form for intializing a variable when it is declared?
+
+    type name = value;
+
+9.  What does the % do? Can it be used on floting-point values?
+
+    Modulo opertor is used to get the remained from an intiger value. No
+
+10. Explain the difference between the prefix and postfix forms of the increment operator.
+
+    Prefix will do the increment first then assign. Postfix will assign first then increment.
+
+    For example
+    int x, y = 10;
+    
+    x = ++y; // x gets assigned 11
+
+    y = 10;
+
+    x = y++; // x gets assigned 10
+
+    // in both cases y value is increaed to 11 nevertheless.
+
+11. Which of the following are logical operators in C++?
+    A. && Y
+    B. ## N
+    C. || Y
+    D. $$ N
+    E. !  Y
+
+12. How can 
+    x = x + 12;
+    be rewritten?
+
+    x += 12;
+
+13. What is a cast?
+
+  a cast is a conversion from one type to another.
+
+14. Write a program that finds all the prime numbers between 1 and 100.

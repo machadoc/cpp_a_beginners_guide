@@ -1,0 +1,90 @@
+1.  It has been said that c++ sits at the center of the modern programming universe.
+    Explain this statement
+    C++ sits one level above C and one level below Java and C#. Therefore C++ has 
+    object oriented programing like the higher level languages do but also has the
+    speed of C since it is a subset of it a compiles into machine code that the
+    computer needs no translation to use
+
+2.  A C++ compiler produces object code that is directly excecuted by the computer.
+    True or false?
+    True
+
+3. What are the three main principles of object-oriented programming? STUDY 
+    Encapsulation
+    I
+    P
+
+    The three main principles of object-oriented programming are:
+
+    Encapsulation - bundling data and methods together
+    Inheritance - allows classes to derive properties from other classes
+    Polymorphism - enables using objects of different types through a common interface
+
+
+4. Where do C++ programs begin excecution?
+    main()
+
+5.  What is a header? STUDY
+    header is a set of functions that can be used by the program
+
+    A header in C++ is a file that contains declarations for functions, classes, 
+    and objects that can be used in your program. Headers often provide access to 
+    standard libraries or reusable code. For example, <iostream> is a header that 
+    allows you to use input and output streams like cin and cout.
+
+6.  What is <iostream>? what does the following code do?
+    #include <iostream>
+    <iostream> is a header used to handle C++'s input and output. The following code
+    allows the user to call functions defined by the iostream library
+
+    <iostream> is a standard C++ header file that provides input and output stream 
+    objects, such as cin for input and cout for output. The code #include <iostream> 
+    allows your program to use these input/output features, enabling you to read from 
+    the keyboard and write to the screen.
+
+7.  What is a namespace? STUDY
+    namespace is 
+
+    A namespace in C++ is a way to organize code and prevent naming conflicts by 
+    grouping related identifiers (such as variables, functions, and classes) under 
+    a unique name. For example, the std namespace contains all the standard C++ library 
+    features like cout and cin. Using namespace std; lets you use these features without 
+    prefixing them with std::.
+
+8.  What is a variable?
+    a variable is a memory space that can be assigned a value
+
+9.  Which of the following variable names is/are invalid?
+    A. count
+    B. _count
+    C. count27
+    D. 67count invalid
+    E. if invalid
+
+10. How do you create a single-line comment? How do you create a multiline comment?
+    single-line //
+    multiline /* */
+
+11. Show the general form of the if statement. Show the general form of the for loop. STUDY
+    if (condition){}
+    for (initialization;condition;increment){}
+
+12. How do you create a block of code?
+    {}
+
+13. The moon's gravity is about 17 percent that of Earth's. Write a program that displays a
+    table that shows Earth pounds and their equivalent moon weight. Have the table run from 
+    1 to a 100 pounds. Output a newline every 25 pounds.
+
+14. A year on Jupiter (the time it takes for Jupiter to make one full circuit around the Sun) takes
+    about 12 Earth years. Write a program that converts Jovian years to Earth years. Have the
+    user specify the number of Jovian years. Allow fractional years.
+
+15. When a function is called, what happens to program control?
+    program will jump to where the function was created. Essentially will excecute the code
+    statemnts in the function and then jump back to where the function was called to continue
+    from top to bottom.
+
+16. Write a program that averages the absolute value of five values entered by the user. Display
+    the result.
+

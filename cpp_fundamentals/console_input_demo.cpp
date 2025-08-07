@@ -1,6 +1,6 @@
 /*
-    An interactive program that computes
-    the area of a rectangle
+  An interactive program that computes
+  the area of a rectangle
 */
 
 #include <iostream>

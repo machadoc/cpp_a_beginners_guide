@@ -1,6 +1,6 @@
 /*
-    This program demonsrates the \n code, which
-    generates a new line
+  This program demonsrates the \n code, which
+  generates a new line
 */
 
 #include <iostream>
